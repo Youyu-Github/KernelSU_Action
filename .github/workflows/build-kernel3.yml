@@ -1,4 +1,4 @@
-name: 红米K20P KSU 2
+name: 红米K20P KSU 3
 on:
   watch:
     types: [started]
